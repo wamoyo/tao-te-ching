@@ -1,0 +1,28 @@
+/* nothing yet */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: monospace;
+  padding: 1em;
+  width: 95%;
+}
+
+h1 {
+  margin-bottom: 0;
+}
+
+p.subtitle {
+  font-style: italic;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+pre {
+  white-space: pre-wrap;
+}
+
