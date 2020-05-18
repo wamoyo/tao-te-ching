@@ -634,7 +634,7 @@ that is the Master's way.
 44
 Fame or integrity: which is more important?
 Money or happiness: which is more valuable?
-Success of failure: which is more destructive? If you look to others for fulfillment,
+Success or failure: which is more destructive? If you look to others for fulfillment,
 you will never truly be fulfilled.
 If your happiness depends on money,
 you will never be happy with yourself. Be content with what you have;
