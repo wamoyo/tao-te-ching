@@ -1,9 +1,9 @@
 
-# tao-te-ching
+# Tao Te Ching
 
 Visit: [wamoyo.github.io/tao-te-ching](http://wamoyo.github.io/tao-te-ching)
 
-The Stephen Mitchell translation of Lao Tsu's Tao te Ching
+The Stephen Mitchell translation of Lao Tsu's **Tao Te Ching**
 
 1
 The tao that can be told
@@ -697,7 +697,7 @@ They look to her and wait. She treats them like her own children.
 The Master gives himself up
 to whatever the moment brings.
 He knows that he is going to die,
-and her has nothing left to hold on to:
+and he has nothing left to hold on to:
 no illusions in his mind,
 no resistances in his body.
 He doesn't think about his actions;
