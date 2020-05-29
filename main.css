@@ -4,7 +4,7 @@
 
 @font-face {
   font-family: 'Fira Mono';
-  src: url('/fira-mono.woff2');
+  src: url('fira-mono.woff2');
 }
 
 body {
