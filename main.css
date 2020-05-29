@@ -2,12 +2,24 @@
   box-sizing: border-box;
 }
 
+@font-face {
+  font-family: 'Fira Mono';
+  src: url('/fira-mono.woff2');
+}
+
 body {
-  font-family: monospace;
+  font-family: 'Fira Mono', monospace;
   font-size: 1.2em;
   padding: 1em;
   width: 95%;
 }
+
+@media (min-width: 1024px) {
+  body {
+    font-size: 1.4em;
+  }
+}
+
 
 h1 {
   margin-bottom: 0;
